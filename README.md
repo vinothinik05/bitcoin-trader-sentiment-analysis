@@ -18,7 +18,7 @@ Pandas
 Seaborn  
 Plotly  
 XGBoost  
-PowerBI  
+
 
 ## Analysis Performed
 
@@ -45,7 +45,6 @@ An XGBoost regression model is used to predict trader profit based on:
 ## Project Files
 
 - sentiment_analysis.ipynb (Colab Notebook)
-- powerbi_dataset.csv (Dataset for PowerBI Dashboard)
 
 ## Author
 
